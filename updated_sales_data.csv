@@ -1,0 +1,616 @@
+Order_ID,Customer_Name,Gender,Age,City,Product_Category,Quantity,Price,Order_Date,Payment_Method,Rating
+1001,,Female,22,mumbai,electronic,1.0,abc,05-01-2024,UPI,1.0
+1002,Pooja,Male,120,,Clothing,4.0,67000,13-04-2024,UPI,2.0
+1003,Anjali,Male,21,,Electronics,3.0,,18-03-2024,Card,1.0
+1004,Vikas,Female,120,Delhi,electronic,3.0,45000,31-03-2024,UPI,1.0
+1005,Akash,Female,45,,Furniture,4.0,,21-01-2024,Card,3.0
+1006,Pooja,Female,38, Nagpur,Clothing,5.0,45000,21-01-2024,cash,4.0
+1007,Meena,Male,twenty,PUNE,Electronics,2.0,500,13-04-2024,Card,4.0
+1008,Meena,Male,twenty,Pune,Clothng,4.0,999999,19-01-2024,Card,2.0
+1009,Akash,Female,-3, Nagpur,Clothng,3.0,45000,18-01-2024,card,4.0
+1010,Sneha,Female,,PUNE,Clothng,5.0,1500,19-02-2024,cash,5.0
+1011,Vikas,Male,39,mumbai,electronic,3.0,,15-01-2024,Card,4.0
+1012,Rohit,Female,120,PUNE,Clothing,5.0,1500,21-04-2024,Card,
+1013,Pooja,Male,120,Mumbai,electronic,3.0,999999,03-01-2024,UPI,3.0
+1014,Kiran,Male,20,mumbai,Clothng,1.0,25000,17-01-2024,cash,5.0
+1015,Rohit,Female,120,PUNE,Clothing,,67000,21-02-2024,Card,4.0
+1016,Vikas,Male,120, Nagpur,Clothing,5.0,45000,01-01-2024,UPI,
+1017,Rahul,Male,120,Pune,Furniture,,999999,28-01-2024,card,2.0
+1018,Priya,Female,24,Mumbai,Clothng,3.0,abc,22-02-2024,cash,
+1019,Rahul,Male,-3,mumbai,Furniture,1.0,45000,25-01-2024,Cash,5.0
+1020,Vikas,Female,25,,electronic,1.0,500,24-03-2024,card,1.0
+1021,Sneha,Female,-3,,Clothing,4.0,500,22-01-2024,cash,1.0
+1022,Om,Female,-3,mumbai,electronic,,999999,20-01-2024,Cash,3.0
+1023,Pooja,Male,twenty,Mumbai,Electronics,5.0,999999,05-03-2024,card,2.0
+1024,Rahul,Female,120,Mumbai,Clothing,4.0,1500,30-04-2024,card,2.0
+1025,Rahul,Male,120,Delhi,Furniture,2.0,,31-01-2024,Card,4.0
+1026,Neha,Male,42,Mumbai,Clothng,5.0,1500,10-01-2024,card,2.0
+1027,Meena,Male,twenty,Delhi,Clothing,4.0,67000,19-03-2024,card,1.0
+1028,Kiran,Female,26,Mumbai,electronic,2.0,67000,06-02-2024,card,2.0
+1029,Riya,Male,-3,Delhi,Electronics,1.0,abc,16-04-2024,Card,1.0
+1030,Harshada,Male,-3, Nagpur,Clothng,5.0,500,15-01-2024,UPI,
+1031,Neha,Male,,,Clothing,1.0,67000,16-02-2024,UPI,3.0
+1032,Pooja,Male,120,PUNE,Clothng,5.0,25000,28-04-2024,Cash,2.0
+1033, Rohit ,Female,-3,PUNE,Clothing,3.0,25000,10-04-2024,UPI,4.0
+1034,Rahul,Female,twenty,PUNE,Clothing,2.0,500,25-03-2024,Cash,4.0
+1035,Riya,Male,120,,electronic,3.0,500,15-01-2024,Card,2.0
+1036,,Male,twenty,,electronic,5.0,1500,19-02-2024,card,2.0
+1037,,Male,120,mumbai,Clothing,3.0,abc,09-01-2024,Card,5.0
+1038,Riya,Male,twenty,mumbai,Clothng,3.0,abc,30-03-2024,Card,5.0
+1039,Neha,Female,, Nagpur,electronic,3.0,abc,11-03-2024,UPI,3.0
+1040,Kiran,Male,twenty,,Clothng,4.0,45000,06-03-2024,cash,
+1041,Rohit,Female,120,Delhi,Electronics,2.0,67000,29-01-2024,Cash,2.0
+1042,,Male,45,,Clothng,,45000,01-04-2024,cash,4.0
+1043,Om,Male,42,PUNE,Clothng,2.0,25000,12-04-2024,card,4.0
+1044,Rahul,Male,,PUNE,Clothng,,,06-04-2024,cash,5.0
+1045,Anjali,Female,-3,,Furniture,2.0,67000,08-04-2024,card,4.0
+1046,Akash,Male,twenty,Delhi,Furniture,5.0,1500,18-01-2024,Cash,2.0
+1047,Om,Male,-3,Delhi,electronic,4.0,abc,08-01-2024,Cash,4.0
+1048,Om,Female,120,,Clothng,1.0,,08-02-2024,cash,4.0
+1049,Akash,Female,-3,Delhi,Clothng,,25000,17-04-2024,cash,2.0
+1050,Harshada,Female,18,mumbai,Clothng,2.0,999999,24-01-2024,UPI,3.0
+1051,Om,Male,-3,Delhi,Clothng,3.0,1500,01-03-2024,UPI,
+1052,Rahul,Female,20,PUNE,Electronics,2.0,45000,17-04-2024,UPI,5.0
+1053,Neha,Male,,,Furniture,3.0,25000,18-03-2024,card,
+1054,Amit,Male,120,Mumbai,Furniture,5.0,abc,20-02-2024,Cash,1.0
+1055,Akash,Female,37,PUNE,electronic,1.0,,09-03-2024,cash,
+1056,Sameer,Male,-3,PUNE,Clothng,1.0,abc,16-02-2024,cash,
+1057,Neha,Female,120,PUNE,electronic,4.0,999999,25-02-2024,card,3.0
+1058,Riya,Male,-3,Pune,Clothng,5.0,abc,13-02-2024,UPI,4.0
+1059,Riya,Male,twenty, Nagpur,Furniture,5.0,500,07-03-2024,Cash,1.0
+1060,Akash,Female,-3,mumbai,Clothng,4.0,500,12-01-2024,Card,2.0
+1061,Om,Male,-3, Nagpur,electronic,3.0,abc,05-04-2024,card,3.0
+1062,Sameer,Male,25,mumbai,Clothing,3.0,1500,05-04-2024,card,
+1063,Rohit,Male,120,PUNE,electronic,5.0,67000,13-01-2024,Cash,3.0
+1064,Akash,Female,,Delhi,Electronics,1.0,67000,30-03-2024,Cash,
+1065, Priya ,Male,-3,,Furniture,2.0,500,02-02-2024,cash,1.0
+1066,Sneha,Female,39,Pune,Clothing,5.0,67000,11-01-2024,Cash,1.0
+1067,Anjali,Female,120,,Clothng,4.0,67000,20-04-2024,card,4.0
+1068,Kiran,Female,,mumbai,Clothing,3.0,1500,21-01-2024,Cash,2.0
+1069,Sneha,Female,-3,Delhi,Electronics,2.0,67000,31-03-2024,Card,
+1070,Vikas,Male,120,mumbai,Clothing,4.0,1500,10-03-2024,Cash,
+1071,Neha,Male,,PUNE,Furniture,5.0,67000,26-02-2024,UPI,4.0
+1072,Kiran,Male,-3,,Electronics,5.0,500,23-04-2024,cash,
+1073, Riya ,Female,120, Nagpur,Electronics,,67000,14-03-2024,UPI,2.0
+1074,Priya,Male,120,,Clothng,1.0,999999,14-02-2024,cash,3.0
+1075,Riya,Male,-3,Delhi,Clothng,5.0,500,28-02-2024,UPI,3.0
+1076,Meena,Female,120,PUNE,Electronics,,999999,22-02-2024,UPI,2.0
+1077,Sameer,Female,42,Pune,Furniture,5.0,25000,28-04-2024,Card,4.0
+1078,Priya,Male,,mumbai,Clothing,3.0,500,11-03-2024,cash,1.0
+1079,Akash,Female,,,Furniture,5.0,67000,23-02-2024,cash,4.0
+1080,Akash,Female,120,mumbai,Clothing,1.0,67000,08-04-2024,cash,3.0
+1081,Meena,Male,120, Nagpur,Clothng,2.0,999999,09-03-2024,cash,3.0
+1082,Riya,Female,,mumbai,Clothing,5.0,abc,30-01-2024,cash,1.0
+1083,Riya,Female,,,Electronics,2.0,,21-04-2024,UPI,4.0
+1084,Amit,Female,-3,PUNE,Clothing,1.0,999999,10-04-2024,Card,3.0
+1085,Om,Female,120,,Furniture,,999999,21-04-2024,card,1.0
+1086,Sneha,Male,25,,Electronics,,1500,26-02-2024,Cash,
+1087, Kiran ,Male,twenty,Delhi,Clothng,2.0,45000,08-03-2024,cash,5.0
+1088,Rohit,Female,,,electronic,2.0,45000,29-02-2024,Card,4.0
+1089,Meena,Female,120,Pune,Electronics,4.0,,16-03-2024,Card,
+1090,Anjali,Male,-3,PUNE,Clothng,1.0,45000,18-02-2024,card,3.0
+1091,Kiran,Female,twenty,Mumbai,electronic,,500,26-04-2024,card,
+1092,Priya,Female,twenty,Pune,Clothing,5.0,67000,27-03-2024,Cash,
+1093,Amit,Male,-3,Mumbai,electronic,3.0,25000,12-01-2024,Card,3.0
+1094,Anjali,Male,120, Nagpur,Furniture,2.0,67000,26-04-2024,cash,3.0
+1095,Riya,Male,,PUNE,Clothng,5.0,,12-01-2024,cash,1.0
+1096,Meena,Female,twenty, Nagpur,Clothng,,,14-01-2024,Cash,4.0
+1097,Harshada,Male,,mumbai,Electronics,,999999,26-04-2024,Card,
+1098, Anjali ,Male,-3,Mumbai,Electronics,2.0,25000,19-02-2024,cash,3.0
+1099,Anjali,Female,38,PUNE,Clothng,5.0,abc,30-04-2024,Card,1.0
+1100,Sameer,Female,twenty,Mumbai,Furniture,5.0,,08-01-2024,cash,3.0
+1101,Pooja,Female,,mumbai,electronic,1.0,500,10-04-2024,Card,2.0
+1102,Neha,Male,120,Pune,Clothing,3.0,25000,10-04-2024,card,1.0
+1103,Meena,Female,twenty,PUNE,Clothing,1.0,500,17-01-2024,UPI,3.0
+1104, Akash ,Male,,mumbai,Clothng,5.0,1500,05-04-2024,UPI,4.0
+1105,Vikas,Male,120,Pune,electronic,1.0,67000,28-02-2024,UPI,1.0
+1106,Priya,Male,-3,Mumbai,Electronics,3.0,25000,09-01-2024,Cash,3.0
+1107,Riya,Male,120, Nagpur,Clothng,1.0,1500,19-04-2024,card,
+1108,Pooja,Female,-3,,Clothng,,1500,10-02-2024,cash,3.0
+1109,Meena,Female,20,PUNE,Electronics,1.0,abc,13-01-2024,Card,2.0
+1110,Rahul,Male,39,,Furniture,,abc,21-04-2024,UPI,3.0
+1111,Kiran,Female,-3,Pune,Electronics,3.0,,15-01-2024,Card,5.0
+1112,Akash,Male,120,Mumbai,electronic,,67000,04-01-2024,Cash,3.0
+1113,Kiran,Female,, Nagpur,Clothng,1.0,25000,04-04-2024,UPI,1.0
+1114,Pooja,Female,twenty,mumbai,Furniture,5.0,1500,23-04-2024,UPI,2.0
+1115, Rohit ,Male,-3,mumbai,Clothng,4.0,999999,23-02-2024,Card,2.0
+1116,Amit,Female,120,,electronic,,67000,06-01-2024,Cash,4.0
+1117,,Female,,PUNE,Furniture,3.0,,16-01-2024,UPI,4.0
+1118,Anjali,Female,120, Nagpur,Furniture,1.0,abc,20-04-2024,UPI,4.0
+1119,Harshada,Male,-3, Nagpur,Clothng,,abc,07-02-2024,UPI,4.0
+1120,Harshada,Male,twenty,Mumbai,Clothng,1.0,45000,25-02-2024,card,4.0
+1121,Sneha,Male,twenty,PUNE,Clothing,1.0,1500,08-03-2024,card,2.0
+1122,Sameer,Female,,Pune,Electronics,2.0,67000,26-01-2024,Cash,5.0
+1123,Neha,Female,-3,,electronic,5.0,999999,28-03-2024,card,
+1124,Riya,Female,32,,Clothng,,67000,11-04-2024,Card,5.0
+1125,Rahul,Female,32,Mumbai,Furniture,3.0,1500,23-03-2024,UPI,5.0
+1126,Om,Female,-3,PUNE,electronic,,45000,11-02-2024,card,4.0
+1127,Neha,Male,40, Nagpur,Clothing,1.0,45000,31-03-2024,cash,4.0
+1128,Rohit,Female,twenty,mumbai,electronic,1.0,,09-01-2024,Card,1.0
+1129,Om,Female,,Delhi,Electronics,5.0,25000,27-04-2024,Card,3.0
+1130,Om,Male,120,,Furniture,2.0,1500,23-03-2024,cash,5.0
+1131,,Female,-3,Pune,Clothing,2.0,25000,10-01-2024,Card,1.0
+1132,Rahul,Male,120,,Clothing,2.0,25000,16-04-2024,card,2.0
+1133,,Female,-3, Nagpur,Furniture,,999999,30-01-2024,card,2.0
+1134,Kiran,Female,120,,Clothng,3.0,abc,05-03-2024,card,4.0
+1135,Rohit,Female,twenty,Mumbai,Clothng,3.0,1500,01-04-2024,card,1.0
+1136,Kiran,Female,,PUNE,Clothng,1.0,45000,14-04-2024,cash,3.0
+1137,Harshada,Male,-3,Mumbai,Furniture,2.0,500,10-02-2024,UPI,
+1138,Riya,Male,-3,mumbai,Clothing,,999999,27-02-2024,card,1.0
+1139,,Female,120, Nagpur,Clothng,1.0,67000,31-01-2024,Card,1.0
+1140,Rahul,Male,32,Mumbai,Clothng,5.0,500,21-03-2024,card,5.0
+1141,Akash,Male,twenty,Pune,electronic,4.0,25000,26-03-2024,UPI,5.0
+1142,Sameer,Male,120, Nagpur,Electronics,4.0,999999,06-01-2024,cash,3.0
+1143,Meena,Male,,mumbai,Electronics,5.0,,18-01-2024,UPI,3.0
+1144,Riya,Female,-3,mumbai,Clothing,2.0,1500,01-04-2024,cash,1.0
+1145,Kiran,Male,twenty, Nagpur,Clothng,5.0,999999,02-02-2024,UPI,
+1146,Pooja,Male,twenty,Delhi,Electronics,3.0,abc,23-04-2024,cash,
+1147,Vikas,Female,-3,Delhi,electronic,3.0,1500,03-04-2024,cash,1.0
+1148,Anjali,Male,twenty,Mumbai,Electronics,3.0,67000,09-02-2024,cash,5.0
+1149,Anjali,Female,twenty, Nagpur,Clothng,3.0,500,10-01-2024,cash,3.0
+1150,Rohit,Male,-3,Mumbai,Clothing,1.0,45000,09-04-2024,Card,3.0
+1151, Om ,Female,-3,Delhi,Furniture,4.0,1500,14-03-2024,Cash,5.0
+1152,Sameer,Female,21,mumbai,Clothing,4.0,abc,26-04-2024,card,1.0
+1153,Meena,Female,twenty,mumbai,Clothng,2.0,1500,18-01-2024,UPI,4.0
+1154,Rohit,Male,twenty,mumbai,Furniture,,1500,11-03-2024,card,3.0
+1155,Kiran,Female,,PUNE,Furniture,5.0,45000,16-01-2024,Cash,2.0
+1156, Akash ,Male,twenty,,electronic,2.0,1500,09-01-2024,Card,4.0
+1157,Priya,Male,,Delhi,Electronics,4.0,999999,28-03-2024,card,3.0
+1158,Neha,Female,,PUNE,Clothing,4.0,500,16-04-2024,UPI,5.0
+1159,Neha,Female,twenty, Nagpur,Furniture,1.0,67000,26-01-2024,card,3.0
+1160,Neha,Male,, Nagpur,electronic,2.0,25000,25-03-2024,card,
+1161,Riya,Male,20,mumbai,electronic,3.0,45000,08-04-2024,card,4.0
+1162,Harshada,Male,twenty,,Clothing,,abc,08-02-2024,cash,1.0
+1163,Rahul,Female,twenty, Nagpur,Clothing,3.0,,03-04-2024,Card,4.0
+1164,Neha,Male,,,Electronics,3.0,999999,01-02-2024,Cash,1.0
+1165,Rahul,Male,,PUNE,Clothing,3.0,,25-01-2024,Cash,4.0
+1166,Vikas,Male,-3, Nagpur,Clothng,2.0,45000,15-03-2024,Card,1.0
+1167,Rahul,Female,-3,Delhi,electronic,1.0,1500,25-02-2024,Cash,3.0
+1168,Sameer,Female,120, Nagpur,Clothing,3.0,67000,10-01-2024,cash,5.0
+1169,Vikas,Male,120,Mumbai,Clothing,1.0,abc,17-02-2024,Card,5.0
+1170,Sameer,Male,120,Mumbai,Electronics,1.0,25000,01-04-2024,Card,4.0
+1171,Vikas,Female,120,Delhi,Clothing,4.0,67000,16-03-2024,Card,5.0
+1172,Priya,Male,twenty,mumbai,Electronics,4.0,67000,11-04-2024,UPI,5.0
+1173,Priya,Male,,mumbai,Electronics,5.0,999999,22-01-2024,card,
+1174,Om,Male,36,Pune,Electronics,4.0,,23-02-2024,Cash,4.0
+1175,Pooja,Female,45,mumbai,Clothing,5.0,45000,12-03-2024,Card,
+1176,Priya,Female,120,Delhi,electronic,3.0,67000,19-03-2024,cash,2.0
+1177,Akash,Male,twenty,mumbai,Clothing,,999999,10-02-2024,cash,3.0
+1178,Meena,Male,-3,PUNE,Furniture,2.0,67000,06-01-2024,Card,
+1179,Sneha,Male,-3,Pune,Clothing,5.0,67000,29-04-2024,card,
+1180,Meena,Male,,Mumbai,electronic,2.0,45000,07-01-2024,UPI,4.0
+1181,Riya,Female,120,Pune,Clothng,,999999,02-03-2024,Cash,3.0
+1182,Riya,Male,120,Pune,electronic,,500,26-04-2024,Cash,4.0
+1183, Rohit ,Female,-3,Pune,Furniture,1.0,500,08-02-2024,card,5.0
+1184,Amit,Female,120, Nagpur,Clothng,2.0,999999,04-02-2024,Cash,1.0
+1185,Riya,Male,,Mumbai,Furniture,3.0,45000,23-01-2024,card,
+1186,Om,Male,30,Pune,Clothing,4.0,,29-04-2024,Cash,1.0
+1187,Meena,Male,twenty, Nagpur,electronic,1.0,67000,24-03-2024,Card,
+1188,Akash,Male,-3,mumbai,electronic,,67000,29-03-2024,UPI,
+1189,Kiran,Female,,,electronic,3.0,abc,30-03-2024,card,4.0
+1190,Pooja,Male,45, Nagpur,Clothng,5.0,,10-01-2024,card,1.0
+1191,Rahul,Female,120,Pune,Clothing,3.0,999999,15-01-2024,Cash,
+1192,Priya,Male,, Nagpur,Clothng,4.0,500,12-03-2024,cash,
+1193,Kiran,Male,, Nagpur,Electronics,1.0,abc,14-02-2024,UPI,5.0
+1194,Rahul,Female,twenty,,Clothing,2.0,abc,17-02-2024,cash,4.0
+1195,Om,Female,120,Pune,Furniture,1.0,25000,09-03-2024,cash,5.0
+1196,Neha,Male,42,Delhi,Clothng,,abc,09-03-2024,cash,2.0
+1197,Akash,Female,41,Mumbai,Clothng,5.0,500,31-01-2024,Cash,1.0
+1198,Amit,Female,40,Pune,Electronics,4.0,999999,30-01-2024,card,2.0
+1199,Rahul,Female,120,Delhi,electronic,5.0,,31-01-2024,Card,2.0
+1200,Akash,Male,,mumbai,Clothng,5.0,999999,07-01-2024,Card,
+1201,Om,Female,,Delhi,Clothng,2.0,999999,31-01-2024,Cash,3.0
+1202,Neha,Male,-3, Nagpur,electronic,2.0,abc,01-02-2024,Card,2.0
+1203,Riya,Male,120,mumbai,Clothing,1.0,67000,18-02-2024,card,5.0
+1204,Rahul,Male,120,Pune,Clothng,2.0,,08-02-2024,UPI,2.0
+1205,Pooja,Female,120,mumbai,Clothing,4.0,45000,11-03-2024,Card,3.0
+1206,Om,Male,twenty, Nagpur,Clothng,4.0,1500,12-04-2024,cash,3.0
+1207,Pooja,Male,,mumbai,Clothing,1.0,67000,11-03-2024,card,5.0
+1208,Anjali,Female,120,PUNE,Clothing,4.0,,02-02-2024,cash,
+1209,Priya,Male,,mumbai,electronic,4.0,25000,27-04-2024,card,
+1210,Rahul,Male,44,PUNE,Electronics,4.0,25000,17-04-2024,Cash,1.0
+1211,,Male,120,mumbai,electronic,4.0,999999,03-01-2024,UPI,5.0
+1212,,Male,twenty,Mumbai,electronic,,abc,13-04-2024,Cash,1.0
+1213,Amit,Male,twenty,PUNE,Furniture,3.0,abc,11-01-2024,Card,4.0
+1214,Vikas,Female,27,mumbai,Electronics,1.0,abc,18-02-2024,cash,5.0
+1215, Priya ,Female,-3,PUNE,Clothng,,,13-03-2024,UPI,5.0
+1216,Rahul,Female,-3,Delhi,Electronics,1.0,67000,25-04-2024,card,5.0
+1217,Rahul,Male,120,Pune,Clothng,1.0,67000,21-01-2024,card,2.0
+1218,Om,Female,,PUNE,Electronics,5.0,,07-01-2024,UPI,4.0
+1219,Akash,Male,-3,PUNE,Furniture,1.0,67000,10-04-2024,cash,4.0
+1220,Akash,Female,120,mumbai,Clothng,1.0,67000,12-04-2024,Cash,
+1221,Sneha,Female,,mumbai,Clothng,3.0,,14-01-2024,UPI,1.0
+1222,Kiran,Male,22,Pune,Clothng,4.0,abc,14-01-2024,UPI,1.0
+1223,Sameer,Male,-3,Mumbai,Furniture,4.0,abc,09-04-2024,UPI,
+1224,Akash,Female,,Delhi,Furniture,3.0,999999,19-01-2024,UPI,2.0
+1225,Anjali,Male,twenty,Pune,Clothng,5.0,45000,28-02-2024,UPI,2.0
+1226,,Male,twenty,,Furniture,4.0,25000,08-02-2024,Card,5.0
+1227,Pooja,Female,twenty,mumbai,Clothng,5.0,45000,11-02-2024,cash,3.0
+1228,Om,Female,120,Pune,electronic,1.0,999999,30-04-2024,Cash,4.0
+1229,Kiran,Female,-3,Pune,Furniture,2.0,67000,25-03-2024,Cash,
+1230,Anjali,Male,120,,electronic,5.0,abc,10-03-2024,UPI,3.0
+1231,Sneha,Female,,mumbai,electronic,1.0,abc,06-04-2024,Card,4.0
+1232,,Male,120, Nagpur,electronic,,45000,27-02-2024,Card,4.0
+1233,Vikas,Male,twenty,Mumbai,Clothng,1.0,67000,23-02-2024,UPI,1.0
+1234,Neha,Female,-3,Delhi,Clothng,1.0,999999,02-04-2024,cash,3.0
+1235,Sneha,Male,twenty,mumbai,Electronics,,25000,29-04-2024,Cash,5.0
+1236,Rohit,Female,,PUNE,Clothng,,25000,24-01-2024,cash,4.0
+1237,Harshada,Female,-3,,Electronics,,45000,27-01-2024,Card,
+1238,Sneha,Male,twenty,Delhi,Clothing,4.0,1500,03-02-2024,cash,5.0
+1239,Riya,Male,twenty,Delhi,Clothng,5.0,25000,14-04-2024,Card,5.0
+1240,Sneha,Female,27,Pune,Furniture,,25000,06-03-2024,cash,4.0
+1241,Neha,Female,120,mumbai,Clothing,5.0,25000,03-03-2024,Card,2.0
+1242,Rohit,Male,twenty,Mumbai,Clothng,2.0,45000,14-04-2024,cash,5.0
+1243,Priya,Female,-3,,Clothing,1.0,500,11-04-2024,Cash,3.0
+1244,Rahul,Female,-3, Nagpur,Clothng,5.0,1500,14-03-2024,UPI,3.0
+1245,Sameer,Female,120,Pune,Clothng,1.0,45000,08-02-2024,UPI,4.0
+1246,Meena,Female,45,PUNE,Clothing,2.0,,20-04-2024,card,
+1247,Anjali,Female,,PUNE,Electronics,5.0,,09-03-2024,Card,5.0
+1248,Rohit,Male,twenty,PUNE,electronic,,1500,18-01-2024,cash,1.0
+1249,Meena,Female,,mumbai,Furniture,2.0,abc,03-03-2024,Cash,5.0
+1250,Meena,Male,38,,electronic,,67000,29-03-2024,Card,4.0
+1251, Priya ,Female,-3,mumbai,Furniture,1.0,abc,28-01-2024,cash,2.0
+1252,Priya,Male,120,Pune,electronic,4.0,,24-04-2024,UPI,1.0
+1253,Amit,Male,,,Clothng,1.0,abc,26-01-2024,Cash,
+1254,Kiran,Male,twenty,Delhi,Electronics,3.0,25000,07-01-2024,cash,
+1255,Kiran,Female,38,mumbai,Electronics,1.0,45000,02-03-2024,UPI,2.0
+1256,Akash,Male,twenty,PUNE,Electronics,4.0,25000,02-03-2024,UPI,2.0
+1257,Om,Male,twenty,Delhi,Clothing,4.0,25000,23-03-2024,Cash,1.0
+1258,Harshada,Male,,mumbai,Clothing,4.0,999999,20-04-2024,Cash,1.0
+1259,Amit,Female,twenty,,Furniture,2.0,45000,05-02-2024,UPI,2.0
+1260,Kiran,Female,, Nagpur,electronic,5.0,45000,05-04-2024,cash,3.0
+1261,Rahul,Female,-3,Mumbai,Clothing,4.0,1500,08-03-2024,UPI,3.0
+1262,Riya,Male,twenty, Nagpur,Clothing,4.0,1500,03-01-2024,card,1.0
+1263, Harshada ,Male,-3, Nagpur,Furniture,,abc,24-02-2024,cash,1.0
+1264,Neha,Male,, Nagpur,Furniture,4.0,1500,09-02-2024,cash,
+1265,Akash,Female,-3, Nagpur,electronic,1.0,67000,26-03-2024,Cash,1.0
+1266,Harshada,Female,twenty, Nagpur,electronic,,67000,22-01-2024,Card,2.0
+1267,Meena,Male,-3,Delhi,electronic,1.0,67000,01-04-2024,card,
+1268,Sneha,Male,120,Pune,Furniture,2.0,67000,08-04-2024,UPI,5.0
+1269,Amit,Male,45,Pune,Electronics,4.0,,19-02-2024,Cash,2.0
+1270,Rahul,Female,-3,Pune,Furniture,2.0,abc,27-04-2024,Card,3.0
+1271,Sneha,Female,,Pune,electronic,1.0,abc,09-01-2024,cash,3.0
+1272,Kiran,Male,,Delhi,electronic,3.0,45000,29-02-2024,Card,5.0
+1273,Priya,Female,,Pune,Electronics,4.0,500,30-01-2024,card,3.0
+1274, Harshada ,Female,twenty,Mumbai,Clothing,5.0,45000,23-02-2024,cash,1.0
+1275,Neha,Female,120,,Furniture,4.0,1500,15-03-2024,UPI,5.0
+1276,Neha,Male,36,,Clothing,2.0,67000,03-02-2024,Card,4.0
+1277,Riya,Male,,PUNE,electronic,1.0,25000,14-01-2024,Cash,4.0
+1278,Vikas,Male,,,Furniture,4.0,67000,19-04-2024,UPI,1.0
+1279,Rohit,Female,120,Mumbai,Clothing,3.0,25000,12-01-2024,Cash,3.0
+1280,Om,Male,,Mumbai,Clothng,4.0,45000,13-01-2024,cash,1.0
+1281,Neha,Female,,PUNE,Clothng,3.0,1500,15-03-2024,card,3.0
+1282,,Female,,Mumbai,Furniture,1.0,500,30-04-2024,cash,1.0
+1283,Rohit,Female,-3,Mumbai,Clothng,,abc,23-01-2024,Card,2.0
+1284,Rohit,Female,120, Nagpur,electronic,2.0,67000,04-03-2024,cash,5.0
+1285,Priya,Female,,mumbai,electronic,2.0,500,18-02-2024,Card,4.0
+1286,Priya,Male,twenty,Pune,Electronics,3.0,45000,04-01-2024,Card,1.0
+1287,Priya,Female,23,Pune,Clothing,3.0,500,07-04-2024,Cash,5.0
+1288,Om,Female,, Nagpur,Furniture,,,26-04-2024,card,1.0
+1289,Sameer,Male,-3, Nagpur,Furniture,2.0,999999,05-01-2024,UPI,1.0
+1290, Akash ,Female,twenty, Nagpur,Clothing,2.0,,01-04-2024,Cash,3.0
+1291,,Female,42,PUNE,electronic,3.0,1500,17-02-2024,cash,5.0
+1292,Amit,Female,-3,PUNE,Clothng,,,23-01-2024,card,
+1293,Sameer,Female,twenty,mumbai,Furniture,2.0,25000,03-04-2024,UPI,
+1294,Om,Male,, Nagpur,Furniture,5.0,45000,22-03-2024,card,1.0
+1295,Priya,Female,twenty,Pune,Electronics,,,27-02-2024,UPI,3.0
+1296,Pooja,Male,43,mumbai,Electronics,1.0,abc,26-02-2024,cash,2.0
+1297,Anjali,Male,30,PUNE,Clothng,5.0,45000,21-01-2024,cash,1.0
+1298,Rahul,Male,twenty,Pune,Clothng,2.0,1500,11-03-2024,UPI,3.0
+1299,Priya,Female,120,,Clothing,1.0,1500,12-02-2024,Cash,2.0
+1300,Anjali,Female,twenty,mumbai,Furniture,3.0,45000,13-01-2024,UPI,4.0
+1301,Priya,Female,twenty,PUNE,electronic,4.0,45000,13-01-2024,UPI,2.0
+1302,Rohit,Female,45,Delhi,Clothng,4.0,999999,24-04-2024,Card,1.0
+1303,Om,Male,-3,Mumbai,Furniture,4.0,999999,03-02-2024,Cash,3.0
+1304,Rahul,Male,twenty,PUNE,electronic,4.0,45000,11-03-2024,UPI,4.0
+1305,Anjali,Female,,,Furniture,1.0,abc,25-04-2024,UPI,5.0
+1306,Neha,Female,,PUNE,Clothing,2.0,500,24-02-2024,UPI,
+1307,Anjali,Female,120,Delhi,Furniture,,1500,12-01-2024,cash,5.0
+1308,Om,Male,32,PUNE,electronic,5.0,abc,15-01-2024,cash,2.0
+1309,Neha,Male,120,PUNE,Electronics,3.0,,22-04-2024,cash,3.0
+1310,Om,Female,,Delhi,Clothng,2.0,abc,05-01-2024,cash,3.0
+1311,,Male,29,Delhi,Furniture,3.0,67000,17-04-2024,cash,
+1312,Amit,Male,-3,PUNE,Furniture,3.0,abc,18-03-2024,UPI,2.0
+1313,Vikas,Female,120,PUNE,Furniture,1.0,25000,09-01-2024,Card,
+1314,Om,Male,,Pune,Clothing,1.0,45000,05-01-2024,cash,1.0
+1315,Sameer,Female,-3,mumbai,Electronics,,500,31-01-2024,Card,4.0
+1316,Vikas,Male,twenty,Delhi,Clothing,3.0,1500,06-02-2024,UPI,4.0
+1317,Rahul,Female,,mumbai,Clothing,,45000,04-02-2024,cash,5.0
+1318,Harshada,Female,-3,Pune,Clothing,5.0,500,29-01-2024,Card,5.0
+1319,Kiran,Male,-3,PUNE,Furniture,4.0,67000,28-01-2024,cash,3.0
+1320, Om ,Female,twenty, Nagpur,electronic,5.0,67000,08-02-2024,UPI,4.0
+1321,Sneha,Male,twenty,Delhi,Furniture,2.0,25000,07-03-2024,Cash,1.0
+1322,Om,Female,-3,Delhi,Furniture,4.0,abc,19-02-2024,UPI,5.0
+1323,Pooja,Female,-3,mumbai,Furniture,5.0,67000,18-04-2024,Cash,
+1324,Rohit,Female,120,PUNE,Clothing,,,24-03-2024,UPI,2.0
+1325,Sameer,Female,twenty,Delhi,Furniture,5.0,67000,29-02-2024,UPI,4.0
+1326,Rahul,Male,-3,Pune,electronic,1.0,abc,08-03-2024,Card,4.0
+1327,Rahul,Female,-3, Nagpur,Clothng,2.0,,20-04-2024,Cash,1.0
+1328,Priya,Male,38,Mumbai,Clothng,3.0,45000,07-04-2024,Cash,5.0
+1329,Rohit,Male,120,,Clothng,4.0,abc,02-03-2024,cash,1.0
+1330,Rahul,Male,120,Pune,Electronics,,500,21-03-2024,Cash,2.0
+1331,Sameer,Male,twenty,Pune,Electronics,1.0,67000,07-02-2024,cash,
+1332,Riya,Female,-3,Delhi,Clothing,2.0,abc,03-01-2024,Cash,2.0
+1333, Neha ,Male,23,Delhi,Electronics,4.0,67000,08-04-2024,card,5.0
+1334, Rahul ,Male,38,Mumbai,Electronics,4.0,999999,18-02-2024,UPI,5.0
+1335,Meena,Female,39,Delhi,Clothng,,1500,25-03-2024,card,3.0
+1336,Neha,Male,120,Mumbai,Furniture,1.0,1500,04-03-2024,Cash,5.0
+1337,Pooja,Female,-3,Delhi,Clothing,1.0,999999,26-04-2024,Cash,
+1338, Priya ,Female,20,PUNE,electronic,,999999,20-01-2024,UPI,5.0
+1339,Sneha,Male,,,Furniture,3.0,999999,07-01-2024,UPI,2.0
+1340,Rahul,Female,-3,mumbai,Electronics,1.0,500,02-01-2024,Cash,
+1341,Rohit,Male,26,Delhi,Furniture,2.0,1500,21-02-2024,cash,4.0
+1342,Meena,Female,-3,mumbai,Clothing,1.0,25000,30-03-2024,UPI,2.0
+1343,Amit,Male,-3,Pune,electronic,4.0,,19-03-2024,UPI,
+1344,Neha,Female,32,Mumbai,Furniture,,,02-01-2024,card,
+1345,Akash,Male,120,mumbai,electronic,1.0,abc,25-03-2024,Cash,4.0
+1346,Sameer,Female,120, Nagpur,Electronics,1.0,25000,05-03-2024,cash,4.0
+1347,Rohit,Female,twenty,Mumbai,electronic,2.0,abc,21-02-2024,Cash,1.0
+1348,Vikas,Male,-3,,Furniture,1.0,999999,05-04-2024,UPI,1.0
+1349,Om,Male,44,PUNE,electronic,5.0,67000,23-04-2024,card,5.0
+1350,Pooja,Male,29,PUNE,Clothing,4.0,,12-03-2024,card,5.0
+1351,Priya,Female,21,PUNE,Clothing,1.0,,15-02-2024,Card,5.0
+1352, Sameer ,Female,,PUNE,Clothng,1.0,67000,19-03-2024,Cash,2.0
+1353,Amit,Female,,mumbai,Furniture,1.0,abc,06-01-2024,card,1.0
+1354,Vikas,Male,-3,Mumbai,electronic,,500,11-03-2024,cash,5.0
+1355,Priya,Female,120,Pune,Clothing,1.0,abc,25-03-2024,card,5.0
+1356,Riya,Male,,Delhi,Clothng,3.0,67000,27-02-2024,Cash,2.0
+1357,Anjali,Male,120,PUNE,Furniture,,45000,26-01-2024,Cash,5.0
+1358,Kiran,Female,, Nagpur,electronic,,,31-03-2024,UPI,3.0
+1359,Priya,Female,120,Delhi,Clothng,1.0,1500,04-01-2024,cash,2.0
+1360,Rahul,Female,twenty,Pune,Electronics,,67000,27-01-2024,card,1.0
+1361,Sameer,Female,120,PUNE,Clothing,,abc,31-01-2024,card,
+1362, Kiran ,Female,-3,PUNE,Furniture,5.0,500,02-01-2024,Card,2.0
+1363,Vikas,Female,twenty,PUNE,electronic,5.0,45000,09-04-2024,Cash,3.0
+1364,Vikas,Female,120,Mumbai,Clothng,1.0,abc,05-02-2024,card,3.0
+1365,Neha,Male,-3,mumbai,Clothing,1.0,25000,28-04-2024,Card,5.0
+1366,Rahul,Female,-3,PUNE,electronic,5.0,,10-01-2024,Card,5.0
+1367,Akash,Male,-3, Nagpur,electronic,4.0,1500,14-02-2024,Cash,2.0
+1368,Riya,Male,-3, Nagpur,Electronics,1.0,,27-02-2024,Cash,
+1369,Akash,Male,30,,Furniture,5.0,67000,04-01-2024,card,3.0
+1370,Vikas,Female,twenty, Nagpur,Electronics,1.0,25000,08-04-2024,card,5.0
+1371,Harshada,Female,,PUNE,Clothng,1.0,45000,09-03-2024,cash,
+1372,Sneha,Female,twenty,Mumbai,Electronics,1.0,500,23-01-2024,Card,5.0
+1373,Sneha,Male,-3,,Clothng,4.0,,03-01-2024,cash,
+1374,Amit,Male,120,Mumbai,Electronics,3.0,1500,07-02-2024,Card,5.0
+1375,Sneha,Female,30,,Clothing,5.0,45000,18-01-2024,cash,5.0
+1376,Kiran,Female,twenty,Mumbai,electronic,5.0,25000,16-01-2024,UPI,1.0
+1377,Om,Male,twenty,Pune,Clothng,,25000,21-01-2024,Cash,2.0
+1378,Meena,Male,45,PUNE,electronic,4.0,1500,07-02-2024,UPI,3.0
+1379,Amit,Male,,mumbai,Clothing,1.0,67000,20-03-2024,UPI,2.0
+1380,Riya,Female,120,Pune,electronic,5.0,,13-04-2024,Card,4.0
+1381,,Female,-3,Delhi,Furniture,2.0,,22-04-2024,cash,4.0
+1382,Vikas,Male,,mumbai,electronic,1.0,67000,19-04-2024,Cash,5.0
+1383,Pooja,Male,41,Mumbai,electronic,,500,14-04-2024,card,5.0
+1384,Om,Male,twenty, Nagpur,electronic,4.0,25000,16-02-2024,cash,2.0
+1385,Kiran,Male,twenty, Nagpur,Electronics,,45000,18-04-2024,card,
+1386,Rohit,Female,120, Nagpur,Clothing,,999999,30-04-2024,Card,1.0
+1387,Akash,Male,,Mumbai,Clothing,5.0,,19-02-2024,cash,4.0
+1388,,Male,120,mumbai,Furniture,,67000,15-03-2024,card,5.0
+1389,Rohit,Male,38, Nagpur,Furniture,4.0,45000,07-03-2024,cash,3.0
+1390,Sameer,Male,120,Pune,Clothng,2.0,45000,10-01-2024,card,
+1391,Meena,Male,37,mumbai,Clothing,4.0,,02-04-2024,UPI,4.0
+1392,Priya,Female,-3,Mumbai,Clothing,1.0,25000,14-03-2024,card,2.0
+1393, Neha ,Male,22,Pune,Furniture,2.0,abc,17-03-2024,card,
+1394,Harshada,Male,,,electronic,4.0,999999,22-01-2024,Cash,4.0
+1395,Neha,Female,120,Delhi,Clothing,,,28-04-2024,cash,5.0
+1396,Sneha,Male,, Nagpur,electronic,,abc,15-04-2024,Cash,5.0
+1397,Amit,Male,120, Nagpur,Electronics,1.0,999999,25-03-2024,Cash,5.0
+1398,Harshada,Female,120,,Furniture,1.0,abc,30-01-2024,cash,4.0
+1399,Sameer,Female,36,,Clothing,3.0,999999,08-04-2024,Cash,1.0
+1400,Kiran,Male,24,mumbai,Electronics,5.0,1500,07-03-2024,UPI,4.0
+1401,Pooja,Male,,,electronic,3.0,67000,19-04-2024,card,4.0
+1402,Sameer,Female,,,electronic,5.0,999999,23-01-2024,Card,5.0
+1403,Priya,Male,-3,mumbai,Clothing,,1500,05-04-2024,Cash,4.0
+1404,Rohit,Male,120, Nagpur,Electronics,2.0,abc,22-03-2024,UPI,1.0
+1405,Neha,Male,twenty,Pune,Furniture,1.0,500,02-04-2024,cash,4.0
+1406,Kiran,Female,-3,,Electronics,2.0,67000,25-01-2024,UPI,5.0
+1407,Akash,Male,25,Pune,Electronics,3.0,abc,15-02-2024,cash,4.0
+1408,Pooja,Male,120,Delhi,electronic,5.0,,14-02-2024,Card,2.0
+1409,Pooja,Male,,,electronic,1.0,1500,05-03-2024,Card,3.0
+1410,Amit,Male,120,Delhi,Clothng,4.0,999999,08-04-2024,Cash,3.0
+1411,Vikas,Male,33,Delhi,Electronics,4.0,45000,27-03-2024,Cash,3.0
+1412,Anjali,Male,twenty,Pune,Furniture,1.0,abc,27-03-2024,Card,1.0
+1413,Rohit,Male,,mumbai,Clothing,4.0,45000,31-01-2024,Cash,3.0
+1414,Pooja,Male,,PUNE,Electronics,1.0,1500,27-03-2024,cash,5.0
+1415,Harshada,Male,-3,Delhi,electronic,3.0,999999,24-04-2024,card,3.0
+1416,Priya,Male,-3,Pune,electronic,2.0,500,08-03-2024,cash,4.0
+1417,Rahul,Female,,,Electronics,,999999,10-02-2024,UPI,1.0
+1418,Pooja,Male,twenty,Pune,electronic,3.0,45000,04-02-2024,cash,5.0
+1419,Riya,Female,twenty,Delhi,Clothng,3.0,999999,24-01-2024,card,2.0
+1420,Akash,Female,-3,PUNE,Clothng,2.0,25000,12-04-2024,Cash,4.0
+1421,Harshada,Female,120,mumbai,Furniture,4.0,67000,02-02-2024,card,5.0
+1422,Rahul,Male,twenty,,Electronics,4.0,,03-02-2024,Card,3.0
+1423,Meena,Male,120,Pune,electronic,5.0,25000,09-04-2024,Card,3.0
+1424,Riya,Female,32,,electronic,3.0,999999,21-03-2024,Cash,2.0
+1425,Riya,Female,45,Mumbai,Clothing,3.0,45000,10-02-2024,Card,
+1426,Kiran,Female,-3,PUNE,Furniture,,999999,22-02-2024,Cash,2.0
+1427,Harshada,Male,41,Pune,Clothing,4.0,1500,13-01-2024,UPI,4.0
+1428,,Male,twenty, Nagpur,Clothing,1.0,abc,09-02-2024,Cash,2.0
+1429,Kiran,Male,,Mumbai,Electronics,,,20-04-2024,Card,4.0
+1430,Vikas,Male,-3,Pune,electronic,2.0,999999,21-03-2024,card,4.0
+1431,Kiran,Female,43,,Furniture,3.0,abc,03-02-2024,Cash,3.0
+1432,,Female,twenty,,electronic,1.0,999999,06-04-2024,cash,3.0
+1433,Harshada,Male,25, Nagpur,Furniture,2.0,abc,22-04-2024,card,4.0
+1434,Om,Female,-3,Pune,Furniture,1.0,abc,21-03-2024,Cash,5.0
+1435,Meena,Male,,PUNE,Electronics,2.0,25000,07-02-2024,UPI,
+1436,Vikas,Male,,Delhi,Electronics,2.0,500,09-03-2024,UPI,2.0
+1437,Amit,Female,41,Pune,Electronics,2.0,500,04-03-2024,Cash,3.0
+1438,Anjali,Male,32,Delhi,Electronics,2.0,500,04-02-2024,cash,1.0
+1439,Priya,Male,-3,PUNE,Electronics,1.0,45000,19-02-2024,cash,2.0
+1440,Rahul,Male,,,Clothng,,67000,29-04-2024,Card,2.0
+1441,Rahul,Male,-3,mumbai,Furniture,2.0,,23-04-2024,UPI,
+1442,Pooja,Female,28,Pune,Furniture,5.0,1500,20-02-2024,Cash,1.0
+1443,Rahul,Female,,Delhi,Electronics,2.0,25000,04-03-2024,UPI,
+1444,Riya,Female,19,Delhi,Clothing,,1500,17-01-2024,cash,2.0
+1445,Riya,Male,-3,mumbai,Clothing,1.0,abc,15-02-2024,Cash,3.0
+1446,Rahul,Male,-3,Pune,electronic,2.0,,11-02-2024,cash,3.0
+1447,Rohit,Male,twenty, Nagpur,Furniture,4.0,500,09-04-2024,card,4.0
+1448,Rohit,Male,120,Pune,Furniture,,1500,25-03-2024,card,4.0
+1449,Pooja,Male,120,Delhi,Furniture,4.0,,15-01-2024,UPI,5.0
+1450,,Female,45,Pune,Electronics,4.0,45000,13-01-2024,UPI,5.0
+1451,Om,Female,twenty,Mumbai,Furniture,2.0,1500,02-01-2024,Cash,
+1452,Priya,Female,43,Delhi,electronic,,abc,15-04-2024,Card,
+1453,Rahul,Male,41,PUNE,Furniture,1.0,45000,07-03-2024,UPI,1.0
+1454,Akash,Male,, Nagpur,Clothing,5.0,abc,05-04-2024,UPI,
+1455,Sameer,Female,,PUNE,Clothing,5.0,abc,05-03-2024,Card,
+1456,Rohit,Male,120,Delhi,Furniture,4.0,abc,15-04-2024,Card,5.0
+1457,Akash,Male,twenty,Delhi,Clothng,4.0,abc,01-01-2024,UPI,3.0
+1458,Harshada,Male,twenty,Pune,Clothing,3.0,500,08-04-2024,Card,5.0
+1459,Neha,Female,twenty,Delhi,electronic,2.0,45000,02-02-2024,Card,1.0
+1460,Om,Male,twenty,PUNE,Clothng,2.0,999999,15-04-2024,card,1.0
+1461,,Female,20,PUNE,Furniture,3.0,abc,23-02-2024,UPI,2.0
+1462,Harshada,Male,120,Mumbai,Furniture,5.0,25000,11-02-2024,card,
+1463,Akash,Female,120, Nagpur,electronic,1.0,45000,25-02-2024,Card,4.0
+1464,Neha,Male,41, Nagpur,Clothng,3.0,1500,21-02-2024,card,4.0
+1465,Neha,Female,-3,mumbai,electronic,2.0,45000,01-02-2024,UPI,3.0
+1466,Anjali,Male,-3,,Furniture,3.0,45000,11-02-2024,Card,5.0
+1467,Harshada,Male,-3, Nagpur,Clothing,4.0,500,28-04-2024,Cash,2.0
+1468,Sameer,Male,21,Pune,electronic,2.0,67000,02-01-2024,Card,
+1469,Amit,Male,120,Pune,Clothing,5.0,67000,11-03-2024,cash,5.0
+1470,Neha,Female,120,Mumbai,Furniture,2.0,500,06-02-2024,Cash,
+1471,Meena,Male,-3,mumbai,Furniture,,,20-04-2024,UPI,1.0
+1472,Kiran,Female,120,mumbai,Electronics,3.0,999999,20-04-2024,card,5.0
+1473,Sneha,Female,35,Mumbai,Clothing,5.0,67000,12-02-2024,cash,4.0
+1474,,Male,twenty,Pune,electronic,3.0,500,21-03-2024,Card,4.0
+1475,Harshada,Female,twenty,,Clothing,1.0,abc,07-03-2024,card,
+1476,Akash,Female,120,Delhi,Clothng,5.0,25000,27-01-2024,Cash,5.0
+1477,Pooja,Female,,,Clothing,,25000,10-02-2024,UPI,5.0
+1478,Amit,Female,41,PUNE,Furniture,4.0,abc,08-02-2024,cash,
+1479,Meena,Female,23,PUNE,electronic,5.0,67000,18-03-2024,card,5.0
+1480,Akash,Male,29,mumbai,Clothng,2.0,999999,01-04-2024,Card,2.0
+1481,Om,Female,25,,Electronics,3.0,abc,29-01-2024,Cash,2.0
+1482,Sneha,Female,120,,Furniture,4.0,45000,24-02-2024,cash,1.0
+1483,Om,Female,120, Nagpur,electronic,,500,07-03-2024,UPI,4.0
+1484, Vikas ,Female,120,,Electronics,5.0,abc,07-03-2024,UPI,2.0
+1485,Kiran,Male,,,Furniture,5.0,500,29-03-2024,card,2.0
+1486,Vikas,Female,34,Pune,electronic,,25000,20-02-2024,cash,3.0
+1487,,Female,-3,Mumbai,Furniture,3.0,25000,01-04-2024,UPI,1.0
+1488,Amit,Male,-3,mumbai,electronic,5.0,25000,18-02-2024,card,4.0
+1489,Rahul,Male,,Pune,Clothing,2.0,500,23-02-2024,Card,3.0
+1490,Vikas,Female,24, Nagpur,Furniture,1.0,999999,04-03-2024,cash,5.0
+1491,Harshada,Female,-3,,Clothng,4.0,1500,17-03-2024,card,1.0
+1492,Akash,Female,,Mumbai,Clothing,2.0,500,24-03-2024,Card,1.0
+1493,Neha,Male,twenty,Mumbai,Electronics,1.0,abc,23-01-2024,Cash,
+1494,Kiran,Male,120,Pune,Clothng,,,29-04-2024,UPI,1.0
+1495,Kiran,Male,-3,PUNE,electronic,1.0,67000,01-03-2024,Cash,1.0
+1496,Meena,Female,, Nagpur,Electronics,1.0,1500,02-03-2024,card,
+1497,Kiran,Male,120, Nagpur,Furniture,2.0,999999,07-03-2024,cash,4.0
+1498,Rohit,Male,24,Mumbai,Electronics,4.0,1500,04-04-2024,Cash,5.0
+1499,Anjali,Male,,Mumbai,Clothing,,67000,02-02-2024,UPI,3.0
+1500,Kiran,Male,twenty,Delhi,Clothng,,500,16-04-2024,Cash,2.0
+1501,Riya,Female,33,mumbai,Clothing,4.0,25000,21-03-2024,cash,5.0
+1502,Riya,Female,120,Delhi,electronic,,,12-03-2024,card,1.0
+1503,Pooja,Male,,Delhi,Electronics,3.0,abc,21-03-2024,card,2.0
+1504,Om,Male,twenty,mumbai,Electronics,3.0,abc,12-01-2024,cash,2.0
+1505,Sameer,Female,twenty,Pune,Electronics,3.0,500,09-04-2024,Cash,1.0
+1506,Vikas,Male,,Delhi,Clothng,,67000,09-04-2024,Card,2.0
+1507,Amit,Female,,mumbai,Electronics,4.0,abc,01-04-2024,card,1.0
+1508, Harshada ,Male,45,Delhi,Clothng,1.0,1500,07-03-2024,Card,1.0
+1509,Kiran,Female,twenty,Delhi,electronic,3.0,999999,26-03-2024,UPI,3.0
+1510,Neha,Male,120,Mumbai,Clothing,5.0,,11-03-2024,Card,3.0
+1511,Neha,Male,,Mumbai,Furniture,5.0,,10-03-2024,cash,1.0
+1512,,Male,-3,Mumbai,Electronics,4.0,abc,23-01-2024,card,5.0
+1513,Vikas,Female,120,Mumbai,Clothng,5.0,25000,12-01-2024,cash,1.0
+1514,Vikas,Female,,Pune,Clothing,5.0,67000,26-04-2024,Card,4.0
+1515,Rohit,Male,-3,Mumbai,Electronics,4.0,1500,14-02-2024,cash,4.0
+1516,Rohit,Male,120,Mumbai,Clothng,,1500,11-02-2024,card,
+1517,Sneha,Female,-3,Pune,electronic,2.0,25000,02-03-2024,cash,1.0
+1518,Riya,Female,-3, Nagpur,Furniture,5.0,45000,23-01-2024,UPI,
+1519,Priya,Male,35,PUNE,Clothng,2.0,67000,21-02-2024,UPI,5.0
+1520,Amit,Female,-3,mumbai,Electronics,1.0,45000,14-04-2024,Cash,5.0
+1521,Harshada,Female,twenty,,electronic,5.0,999999,26-01-2024,Cash,
+1522,Riya,Female,-3,mumbai,Furniture,1.0,500,19-03-2024,card,4.0
+1523,Neha,Male,19,mumbai,electronic,3.0,1500,20-04-2024,Card,1.0
+1524,Akash,Female,-3,,Clothng,4.0,45000,25-03-2024,Cash,4.0
+1525,Neha,Male,-3,Pune,Furniture,,25000,18-01-2024,UPI,1.0
+1526,Harshada,Female,,Mumbai,Clothing,,abc,20-04-2024,cash,
+1527,Anjali,Female,-3,,Furniture,2.0,25000,24-02-2024,card,1.0
+1528,Priya,Male,-3, Nagpur,electronic,3.0,500,05-01-2024,card,4.0
+1529,Sameer,Female,,mumbai,electronic,3.0,999999,07-03-2024,UPI,5.0
+1530,Sneha,Female,39,mumbai,electronic,5.0,67000,19-03-2024,UPI,3.0
+1531,Harshada,Female,twenty,,Furniture,3.0,67000,22-01-2024,UPI,
+1532,Kiran,Male,-3, Nagpur,Clothing,5.0,500,25-03-2024,Card,
+1533,Harshada,Male,twenty,Delhi,Clothing,5.0,67000,05-02-2024,Card,1.0
+1534,Amit,Female,-3,Delhi,Clothing,3.0,45000,03-03-2024,Cash,5.0
+1535,Rahul,Female,,PUNE,Clothng,4.0,abc,31-01-2024,cash,
+1536,Rohit,Male,twenty,PUNE,Electronics,1.0,25000,29-02-2024,cash,4.0
+1537,Kiran,Male,-3,mumbai,Clothng,4.0,67000,19-01-2024,card,4.0
+1538,Harshada,Female,twenty, Nagpur,Electronics,1.0,,18-04-2024,cash,5.0
+1539,Meena,Male,120,,Clothng,,45000,03-04-2024,card,2.0
+1540,Riya,Male,35,mumbai,Electronics,1.0,500,22-02-2024,UPI,5.0
+1541,Amit,Female,twenty,Pune,Electronics,1.0,1500,08-01-2024,card,
+1542,Pooja,Female,21,PUNE,electronic,2.0,abc,25-03-2024,card,2.0
+1543,Amit,Female,39,mumbai,Clothng,3.0,abc,29-03-2024,Card,3.0
+1544,Rohit,Male,-3,Delhi,Electronics,3.0,67000,23-01-2024,cash,1.0
+1545,Priya,Female,-3,Mumbai,Clothing,5.0,abc,28-01-2024,card,
+1546,Amit,Male,19,Mumbai,electronic,,67000,09-04-2024,cash,1.0
+1547,Priya,Male,-3,Delhi,Clothing,,,25-04-2024,cash,5.0
+1548,Harshada,Female,-3,,Electronics,5.0,45000,01-01-2024,cash,
+1549,Priya,Male,twenty,,Electronics,,1500,16-02-2024,card,3.0
+1550,Sneha,Male,,Pune,electronic,1.0,abc,25-03-2024,Cash,3.0
+1551,Om,Male,33,mumbai,Clothng,,45000,18-01-2024,UPI,2.0
+1552,Harshada,Female,30,PUNE,electronic,,67000,04-03-2024,card,4.0
+1553,,Female,-3,Mumbai,Clothing,,999999,30-04-2024,card,2.0
+1554, Akash ,Female,33,,electronic,1.0,45000,30-03-2024,Cash,1.0
+1555,Rohit,Male,120,Pune,electronic,1.0,1500,15-01-2024,cash,5.0
+1556,Akash,Male,-3,Delhi,Electronics,,25000,11-02-2024,Cash,1.0
+1557,Rohit,Female,-3,Pune,Furniture,5.0,25000,26-02-2024,Cash,5.0
+1558,Rahul,Female,-3,PUNE,Clothing,1.0,999999,11-01-2024,UPI,1.0
+1559,Rohit,Male,-3,mumbai,Clothng,,25000,27-01-2024,Cash,
+1560,Meena,Female,37, Nagpur,Clothing,,999999,19-03-2024,UPI,
+1561, Kiran ,Female,24, Nagpur,Electronics,5.0,,20-04-2024,card,5.0
+1562,Akash,Female,26,Pune,Electronics,2.0,999999,04-03-2024,Cash,2.0
+1563,Rahul,Female,twenty,Delhi,electronic,4.0,500,14-01-2024,UPI,5.0
+1564, Rohit ,Male,21,Pune,Clothng,5.0,,23-02-2024,Cash,
+1565,Riya,Female,,mumbai,Clothng,2.0,abc,24-04-2024,Cash,1.0
+1566,Priya,Female,, Nagpur,Clothng,2.0,abc,17-02-2024,Cash,4.0
+1567,Pooja,Female,,Mumbai,electronic,1.0,67000,18-01-2024,UPI,4.0
+1568,Vikas,Female,120,Pune,electronic,2.0,45000,12-01-2024,cash,5.0
+1569,Priya,Female,-3,Delhi,Electronics,,abc,04-04-2024,Cash,2.0
+1570,Riya,Male,120,Mumbai,Clothng,1.0,500,01-03-2024,card,1.0
+1571,Anjali,Female,44,,Clothng,2.0,1500,12-03-2024,UPI,
+1572,Anjali,Male,25,Mumbai,Clothng,,67000,21-01-2024,cash,5.0
+1573,Harshada,Female,-3,Pune,Furniture,,999999,31-03-2024,UPI,
+1574,Sneha,Male,twenty,,Furniture,,45000,10-04-2024,UPI,5.0
+1575,Riya,Female,29,Mumbai,Clothng,3.0,999999,20-03-2024,UPI,3.0
+1576,Sameer,Male,,Pune,Furniture,2.0,1500,24-03-2024,cash,
+1577,Pooja,Male,twenty, Nagpur,Clothng,3.0,500,09-01-2024,Card,3.0
+1578,Vikas,Male,120,mumbai,electronic,3.0,999999,20-03-2024,Card,
+1579,Sneha,Male,-3,Pune,Furniture,1.0,1500,22-01-2024,Card,1.0
+1580,Neha,Male,38,Delhi,Clothng,,25000,01-03-2024,Card,4.0
+1581, Vikas ,Female,20,PUNE,Clothing,5.0,,22-02-2024,card,3.0
+1582,Riya,Male,120,,Clothng,3.0,25000,24-04-2024,Card,2.0
+1583,Meena,Male,42,Pune,Furniture,3.0,999999,22-01-2024,card,2.0
+1584,Kiran,Female,,Pune,Clothing,1.0,500,10-02-2024,card,2.0
+1585,Vikas,Male,40,mumbai,Furniture,3.0,25000,17-02-2024,cash,5.0
+1586,Rohit,Male,-3,PUNE,Clothing,4.0,,20-01-2024,UPI,
+1587,Riya,Male,120,mumbai,Clothing,5.0,999999,13-02-2024,UPI,
+1588,Priya,Male,twenty,Mumbai,Clothng,5.0,45000,27-02-2024,Card,1.0
+1589,Riya,Male,,PUNE,Furniture,2.0,500,11-01-2024,card,4.0
+1590,Sneha,Female,120, Nagpur,electronic,1.0,,20-02-2024,Cash,
+1591,Anjali,Male,twenty,Delhi,Clothng,5.0,1500,28-01-2024,cash,
+1592,Anjali,Female,-3,Pune,electronic,5.0,1500,19-01-2024,Cash,3.0
+1593,Priya,Male,120,PUNE,Clothng,1.0,500,22-02-2024,Card,4.0
+1594,Rohit,Female,,PUNE,Clothng,3.0,999999,06-01-2024,Card,5.0
+1595,Kiran,Female,18,Pune,Furniture,3.0,999999,16-01-2024,Card,4.0
+1596,Rohit,Female,18,PUNE,Furniture,4.0,1500,17-03-2024,Card,5.0
+1597,Priya,Female,-3,mumbai,Electronics,3.0,500,18-04-2024,Card,2.0
+1598,Rahul,Female,twenty,Pune,Electronics,3.0,,23-02-2024,Card,1.0
+1599,Kiran,Male,,PUNE,Clothing,1.0,25000,10-03-2024,Card,3.0
+1600,Kiran,Male,120, Nagpur,Furniture,2.0,500,18-01-2024,card,3.0
+1001,,Female,22,mumbai,electronic,1.0,abc,05-01-2024,UPI,1.0
+1002,Pooja,Male,120,,Clothing,4.0,67000,13-04-2024,UPI,2.0
+1003,Anjali,Male,21,,Electronics,3.0,,18-03-2024,Card,1.0
+1004,Vikas,Female,120,Delhi,electronic,3.0,45000,31-03-2024,UPI,1.0
+1005,Akash,Female,45,,Furniture,4.0,,21-01-2024,Card,3.0
+1006,Pooja,Female,38, Nagpur,Clothing,5.0,45000,21-01-2024,cash,4.0
+1007,Meena,Male,twenty,PUNE,Electronics,2.0,500,13-04-2024,Card,4.0
+1008,Meena,Male,twenty,Pune,Clothng,4.0,999999,19-01-2024,Card,2.0
+1009,Akash,Female,-3, Nagpur,Clothng,3.0,45000,18-01-2024,card,4.0
+1010,Sneha,Female,,PUNE,Clothng,5.0,1500,19-02-2024,cash,5.0
+1011,Vikas,Male,39,mumbai,electronic,3.0,,15-01-2024,Card,4.0
+1012,Rohit,Female,120,PUNE,Clothing,5.0,1500,21-04-2024,Card,
+1013,Pooja,Male,120,Mumbai,electronic,3.0,999999,03-01-2024,UPI,3.0
+1014,Kiran,Male,20,mumbai,Clothng,1.0,25000,17-01-2024,cash,5.0
+1015,Rohit,Female,120,PUNE,Clothing,,67000,21-02-2024,Card,4.0
